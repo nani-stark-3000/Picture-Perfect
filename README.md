@@ -6,7 +6,7 @@ To generate GitHub README content for your Flask project, you can provide an ove
 
 This is a Flask web application for image quality assessment. It allows users to upload images, applies blur to them, calculates SSIM (Structural Similarity Index Measure) scores, and categorizes the images based on their quality.
 
-![Demo Video](https://github.com/nani-stark-3000/Picture-Perfect/blob/1bdd395f24360440139be3e984d7888bb3250f87/Project%20Video.mp4)
+![Demo Video](https://github.com/nani-stark-3000/Picture-Perfect/blob/825860a90bb99e875b1b94ee3370b979ccfb5e6b/Project%20Video%20ultra%20compressed.mp4)
 
 ## Features
 
