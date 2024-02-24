@@ -1,7 +1,3 @@
-To generate GitHub README content for your Flask project, you can provide an overview of the project, its features, and how to use it. Here's a template you can use:
-
----
-
 # Image Quality Assessment Web App
 
 This is a Flask web application for image quality assessment. It allows users to upload images, applies blur to them, calculates SSIM (Structural Similarity Index Measure) scores, and categorizes the images based on their quality.
@@ -60,10 +56,6 @@ Before running the application, ensure you have the following dependencies insta
 ![Home Page](https://github.com/nani-stark-3000/Picture-Perfect/blob/267cf4b7cec50f1a3862f6217d610d1a8c6dd251/Launch.png)
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [Flask](https://flask.palletsprojects.com/)
@@ -71,6 +63,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [torchvision](https://pytorch.org/vision/stable/index.html)
 - [piq](https://github.com/photosynthesis-team/piq)
 
----
-
-You can customize this template to include specific details about your project, such as installation instructions, usage examples, screenshots, and acknowledgments. Let me know if you need further assistance!
